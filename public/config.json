@@ -9,10 +9,10 @@
   },
   "crypto": {
     "monero": "",
-    "bitcoin": "3MnsKfA7ykpcU84hick2ssD5vBcvh8U4mn\n",
+    "bitcoin": "3MnsKfA7ykpcU84hick2ssD5vBcvh8U4mn",
     "ethereum": "0xF4881a2aAEF794b3d80b1ba1fbC114C84a30aA89"
   },
-  "sponsor_text": "Below is a list of my GitHub sponsors, Patreons and generous contributors:\n",
+  "sponsor_text": "Below is a list of my GitHub sponsors, Patreons and generous contributors:",
   "sponsors": {
     "John Smith": "https://github.com/johnsmith",
     "John Smith2": "https://patreon.com/johnsmith",
