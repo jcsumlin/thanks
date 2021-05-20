@@ -1,0 +1,25 @@
+{
+  "h1": "Thanks",
+  "caption": "I would like to thank all the people who donated to me and all the kind words I have received. It really keeps me going so I can continue making free software ❤️",
+  "buttons": {
+    "patreon":"https://www.patreon.com/botboi",
+    "github": "https://github.com/sponsors/jcsumlin",
+    "paypal": "https://paypal.me/ChatSumlin/usd",
+    "spotify": "https://spotify.com"
+  },
+  "crypto": {
+    "monero": "",
+    "bitcoin": "3MnsKfA7ykpcU84hick2ssD5vBcvh8U4mn\n",
+    "ethereum": "0xF4881a2aAEF794b3d80b1ba1fbC114C84a30aA89"
+  },
+  "sponsor_text": "Below is a list of my GitHub sponsors, Patreons and generous contributors:\n",
+  "sponsors": {
+    "John Smith": "https://github.com/johnsmith",
+    "John Smith2": "https://patreon.com/johnsmith",
+    "John Smith3": "https://patreon.com/johnsmith",
+    "John Smith4": "https://patreon.com/johnsmith",
+    "John Smith5": "https://patreon.com/johnsmith",
+    "John Smith6": "https://patreon.com/johnsmith",
+    "John Smith7": "https://patreon.com/johnsmith"
+  }
+}
