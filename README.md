@@ -1,4 +1,6 @@
 # Thanks!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5722772e-b5b9-4880-9ae1-1ed098f686b9/deploy-status)](https://app.netlify.com/sites/suspicious-mestorf-22858d/deploys)
+
 Lightweight react project to thank your sponsors!
 
 Customizable buttons for everything from Patreon to Monero
